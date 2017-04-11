@@ -1,0 +1,11 @@
+name 'cluster'
+maintainer 'Paul Nathan'
+maintainer_email 'pnathan@alumni.uidaho.edu'
+license 'Affero GPL 3.0+'
+description 'cluster config'
+version '1.0.0'
+
+depends 'apt'
+depends 'docker'
+depends 'docker-compose'
+depends 'udrnginx'
